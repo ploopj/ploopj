@@ -2,7 +2,6 @@
 
 ### Digital Creator
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ploopj&label=Profile views&color=0e75b6&style=flat" alt="ploopj" /> </p>
 
 - 🔭 I'm currently working on **Personal projects.**
 
