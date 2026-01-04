@@ -31,4 +31,4 @@
 
 #Stats
 
-[![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ploopj)](https://github.com/anuraghazra/github-readme-stats)
+![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ploopj_icons=true&theme=radical)
